@@ -6,15 +6,15 @@ setup(
     # 배포할 패키지의 버전을 적어줍니다. 첫 등록이므로 0.1 또는 0.0.1을 사용합니다.
     version             = '0.1',
     # 배포할 패키지에 대한 설명을 작성합니다.
-    description         = 'for explain about pypi deploy',
+    description         = 'This is SK Materials RPA package.',
     # 배포하는 사람의 이름을 작성합니다.
     author              = 'DongHun Hwang',
     # 배포하는 사람의 메일주소를 작성합니다.
     author_email        = 'dong5053@naver.com',
     # 배포하는 패키지의 url을 적어줍니다. 보통 github 링크를 적습니다.
-    url                 = 'https://github.com/doorBW/pypi_deploy_test',
+    url                 = 'https://github.com/dong5053/RPA',
     # 배포하는 패키지의 다운로드 url을 적어줍니다.
-    download_url        = 'https://github.com/doorBW/pypi_deploy_test/archive/master.zip',
+    download_url        = 'https://github.com/dong5053/RPA/archive/refs/heads/main.zip',
     # 해당 패키지를 사용하기 위해 필요한 패키지를 적어줍니다. ex. install_requires= ['numpy', 'django']
     # 여기에 적어준 패키지는 현재 패키지를 install할때 함께 install됩니다.
     install_requires    =  [],
