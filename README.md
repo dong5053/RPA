@@ -1,6 +1,6 @@
 # Information
 
-# Use : pip install sk-optom
+# Use : pip install skoptom
 
 해당 패키지는 SK Materials의 RPA 패키지 입니다.
 
