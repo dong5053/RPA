@@ -4,7 +4,7 @@ setup(
     # 배포할 패키지의 이름을 적어줍니다. setup.py파일을 가지는 폴더 이름과 동일하게 합니다.
     name                = 'skoptom',
     # 배포할 패키지의 버전
-    version             = '0.6',
+    version             = '0.7',
     # 배포할 패키지에 대한 설명을 작성합니다.
     description         = 'This is SK Materials RPA package.',
     # 배포하는 사람의 이름을 작성합니다.
