@@ -1,5 +1,5 @@
-from sk_optom import outlook
-from sk_optom import rpalms
+from skoptom import outlook
+from skoptom import rpalms
 
 # LMS 인스턴스 생성
 lms = rpalms.RPA_LMS("logstash")
