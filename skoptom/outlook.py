@@ -246,4 +246,3 @@ class Mail_Outlook():
         
         except AttributeError:
             return False
-
