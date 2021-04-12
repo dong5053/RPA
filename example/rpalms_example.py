@@ -1,4 +1,4 @@
-from sk_optom import rpalms
+from skoptom import rpalms
 import logging
 import sys
 
