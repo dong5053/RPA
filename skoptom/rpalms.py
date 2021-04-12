@@ -289,4 +289,3 @@ class RPA_LMS:
         elif self.category == "logfile":
             self.basic_Logger.setLevel(level)  # 해당 level 이상의 log만 출력
             self.extend_Logger.setLevel(level)  # 해당 level 이상의 log만 출력
-
