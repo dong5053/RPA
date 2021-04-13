@@ -11,6 +11,8 @@ This is SK Materials RPA package.
 
 [2021. 04. 09] : Package official registration
 
+[2021. 04. 12] : 모듈 버그 수정
+
 감사합니다 :-)
 
 Thanks :-)
